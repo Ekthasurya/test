@@ -1,0 +1,5 @@
+MONGO_URL = your mongoatlas 
+
+PORT = Your port number
+
+SECRET_KEY= Your secret key
